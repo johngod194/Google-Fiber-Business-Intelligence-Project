@@ -4,9 +4,8 @@
 
 View the interactive executive summary:
 
-- Live (GitHub Pages):
+- Live (GitHub Page):
 https://johngod194.github.io/Google-Fiber-Business-Intelligence-Project/
-- Direct HTML file: https://johngod194.github.io/Google-Fiber-Executive-Summary/google_fiber_executive_summary.html
 
 ### Project Documents (pdf)
 - Stakeholder Requirements - https://drive.google.com/file/d/1VLF-KbvVbSf4OLlW-0m3c18EXdS6FCL7/view?usp=drive_link
